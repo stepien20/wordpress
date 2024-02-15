@@ -1,6 +1,7 @@
 3 strony statycnze 
-1 czym sie zajmuje witryna 
-2 o mnie 3 kontakt po 
+-1 czym sie zajmuje witryna 
+-2 o mnie 
+-3 kontakt po 
 3 wpisy w 3 roznych kategoriach z multimediami
 ma byc favicona 
 menu ktore ma odnosniki do wszystkich stron statycznych 
