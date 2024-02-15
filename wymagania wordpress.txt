@@ -1,0 +1,16 @@
+3 strony statycnze 
+1 czym sie zajmuje witryna 
+2 o mnie 3 kontakt po 
+3 wpisy w 3 roznych kategoriach z multimediami
+ma byc favicona 
+menu ktore ma odnosniki do wszystkich stron statycznych 
+odnosniki do kategorii do wpisow
+wszywstkei wpisy a wjako menuy rozwijane z poszczegolnych kategorii
+nazwa witryny 4igr1stepien ew. numer na konc gdyby sie nie dalo
+dodaj mozliwosc komentarzy
+ustawienia->dyskusja
+blokowanie slow brzydkich ale nie tak brzydkich
+i zeby byly zatwierdzane te komentarze
+moge bcyy zatwierdzone przez admimna i redaktora
+redaktor adres emial belfer.b2020@gmail.com
+na koncu opublikuj
