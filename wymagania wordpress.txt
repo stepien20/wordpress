@@ -6,6 +6,9 @@
 ma byc favicona 
 menu ktore ma odnosniki do wszystkich stron statycznych 
 odnosniki do kategorii do wpisow
+4 kolejne strony 
+1 z wszystkim wpisami 
+2,3,4 to wpisy kazdej kategorii osobno
 wszywstkei wpisy a wjako menuy rozwijane z poszczegolnych kategorii
 nazwa witryny 4igr1stepien ew. numer na konc gdyby sie nie dalo
 dodaj mozliwosc komentarzy
